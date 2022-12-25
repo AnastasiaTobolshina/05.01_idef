@@ -1,6 +1,7 @@
-<h1 align="center">Практические и лабораторные по диаграммам idef</h1> 
-<h3 align="center">Студентка группы ИВ1-21 Тобольшина Анастасия</h3>
-<p align="center"><b>Инструкция по открытию диаграмм idef:</b></p>
+<h1 align="center">Сайт для Аджилити</h1> 
+<h3 align="center">Студентка группы ИВ1-21 Тобольшина Анастасия. Проект на тему "Сайт для Аджилити"</h3>
+<img src="https://github.com/AnastasiaTobolshina/memory/blob/photo/Don-St-Croix-and-Razzle-dog-agility-8642224-1731-1236.jpg">
+<p align="center"><b>Инструкция по открытию диаграммы "Сайт для Аджилити":</b></p>
 <ul>
   <li> Выбрать нужную ветку </li>
   <li> Выбрать диаграмму </li>
